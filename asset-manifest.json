@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clasesabadoivar/static/css/main.d7474557.css",
+    "main.js": "/clasesabadoivar/static/js/main.a1e1ff7c.js",
+    "static/js/787.3c8b64d5.chunk.js": "/clasesabadoivar/static/js/787.3c8b64d5.chunk.js",
+    "static/media/logo.svg": "/clasesabadoivar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/clasesabadoivar/index.html",
+    "main.d7474557.css.map": "/clasesabadoivar/static/css/main.d7474557.css.map",
+    "main.a1e1ff7c.js.map": "/clasesabadoivar/static/js/main.a1e1ff7c.js.map",
+    "787.3c8b64d5.chunk.js.map": "/clasesabadoivar/static/js/787.3c8b64d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7474557.css",
+    "static/js/main.a1e1ff7c.js"
+  ]
+}
